@@ -2,7 +2,10 @@
 
 This GH definition allows to take a ruled surface and to produce for it a tool path to be used on the ABB-120 ABB-140.
 It does so in 3 main steps -
-<ul>a.Retriving the curves that define the ruled surface intended to be cut and creating the surface. <ul>b.creatig the planes on the center of the surface with adjusments to the <ul>.c.Producing the target points, including a preperation point and a retreat point.curvature of the surface 
+<ul>
+<li>Retriving the curves that define the ruled surface intended to be cut and creating the surface.</li>
+<li>creatig the planes on the center of the surface with adjusments to the </li>
+<li>Producing the target points, including a preperation point and a retreat point.curvature of the surface </li>
 
 
 	
