@@ -6,7 +6,11 @@ It does so in 3 main steps -
 	b.creatig the planes on the center of the surface with adjusments to the curvature of the surface
 	c.Producing the target points, including a preperation point and a retreat point.
 	----------------------------------------------------------------------------------
+	
+	
 Definition was produced by Ashkan Foroughi Dehnavi and Kunaljit Singh Chadha for Wire'N'Cut workshop 2020
+	
+	
 	----------------------------------------------------------------------------------
 
 
