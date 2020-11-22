@@ -1,4 +1,4 @@
-# Wire-Cut-Tool-Path
+### Wire-Cut-Tool-Path
 
 This GH definition allows to take a ruled surface and to produce for it a tool path to be used on the ABB-120 ABB-140.
 It does so in 3 main steps -
@@ -8,9 +8,10 @@ It does so in 3 main steps -
 	
 	----------------------------------------------------------------------------------
 	
-Definition was produced by Ashkan Foroughi Dehnavi and Kunaljit Singh Chadha for Wire'N'Cut workshop 2020
+Definition was produced by Ashkan Foroughi Dehnavi and Kunaljit Singh Chadha for #Wire'N'Cut# workshop 2020
 	
 	----------------------------------------------------------------------------------
+
 
 
 
